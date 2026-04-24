@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 👋 About Me
+##  About Me
 
 ```python
 class TahrimJanin:
@@ -41,11 +41,11 @@ class TahrimJanin:
                           "VS Code"]
         }
         self.learning  = "Full Stack + Deep Learning"
-        self.goal      = "Remote Opportunities 🌍"
-        self.fun_fact  = "I turn ☕ + 💡 into 🚀"
+        self.goal      = "Remote Opportunities "
+        self.fun_fact  = "I turn  +  into "
 
     def say_hi(self):
-        print("Let's build something amazing! 🔥")
+        print("Let's build something amazing! ")
 
 me = TahrimJanin()
 me.say_hi()
@@ -55,30 +55,20 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+##  Tech Stack & Tools
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tahrimjanin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,cpp&theme=dark" />
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-### ⚙️ Backend & Database
+###  Backend & Database
 <img src="https://skillicons.dev/icons?i=django,mysql&theme=dark" />
 
-### 🤖 ML / AI & Data Science
+###  ML / AI & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -86,14 +76,14 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -107,22 +97,22 @@ me.say_hi()
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 <div align="center">
 
-| 🔭 Project Area | 📌 Status | 🎯 Goal |
+| 🔭 Project Area |  Status |  Goal |
 |:---|:---:|:---|
-| 🌐 Full Stack Web (Django) | ![In Progress](https://img.shields.io/badge/-In%20Progress-blue?style=flat-square) | Production-grade web applications |
-| 🤖 Machine Learning & DL | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | AI-driven real-world solutions |
-| 🔬 AI Research | ![Exploring](https://img.shields.io/badge/-Exploring-yellow?style=flat-square) | Research-based ML publications |
-| 🌍 Remote Tech Career | ![Open](https://img.shields.io/badge/-Open-orange?style=flat-square) | Global collaboration in tech |
+|  Full Stack Web (Django) | ![In Progress](https://img.shields.io/badge/-In%20Progress-blue?style=flat-square) | Production-grade web applications |
+|  Machine Learning & DL | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | AI-driven real-world solutions |
+|  AI Research | ![Active](https://img.shields.io/badge/-Exploring-yellow?style=flat-square) | Research-based ML publications |
+| Remote Tech Career | ![Open](https://img.shields.io/badge/-Open-orange?style=flat-square) | Global collaboration in tech |
 
 </div>
 
 ---
 
-## 📈 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -136,7 +126,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
