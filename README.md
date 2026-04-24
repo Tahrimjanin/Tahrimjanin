@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 ```
 
-### `< Full Stack Developer />` · `{ ML Enthusiast }` · `[ Research Learner ]`
+### `< Full Stack Developer />` · `{ ML Enthusiast }` · `[ Researcher]`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+ML-Powered+Web+Applications;Django+%7C+Python+%7C+Deep+Learning;Turning+Ideas+into+Real-World+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -82,7 +82,7 @@ me.say_hi()
 |------|--------|------|
 | 🌐 Full Stack (Django) | `In Progress` | Build & deploy production-grade web apps |
 | 🤖 Machine Learning & Deep Learning | `Active` | Develop AI-driven real-world solutions |
-| 🔬 Research & AI Methodologies | `Exploring` | Publish research-based ML projects |
+| 🔬 Research & AI Methodologies | `Active` | Publish research-based ML projects |
 | ☁️ Remote Tech Opportunities | `Open` | Collaborate globally in tech |
 
 ---
