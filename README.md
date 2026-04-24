@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+##  Who Am I?
 
 ```python
 class TahrimJanin:
@@ -38,7 +38,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -76,18 +76,18 @@ me.say_hi()
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 | Area | Status | Goal |
 |------|--------|------|
-| 🌐 Full Stack (Django) | `In Progress` | Build & deploy production-grade web apps |
-| 🤖 Machine Learning & Deep Learning | `Active` | Develop AI-driven real-world solutions |
-| 🔬 Research & AI Methodologies | `Active` | Publish research-based ML projects |
-| ☁️ Remote Tech Opportunities | `Open` | Collaborate globally in tech |
+|  Full Stack (Django) | `In Progress` | Build & deploy production-grade web apps |
+|  Machine Learning & Deep Learning | `Active` | Develop AI-driven real-world solutions |
+|  Research & AI Methodologies | `Active` | Publish research-based ML projects |
+|  Remote Tech Opportunities | `Open` | Collaborate globally in tech |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 
 > I'm actively looking to collaborate on **Web Development** and **ML Projects**.
 > If you have an exciting idea or need a passionate contributor — let's connect!
@@ -117,12 +117,12 @@ me.say_hi()
 
 <div align="center">
 
-### 💬 Ask Me About
+###  Ask Me About
 `Python` · `Django` · `Machine Learning` · `Research Projects` · `Scikit-learn`
 
 ---
 
-⭐ **If you find my work interesting, don't forget to star my repositories!**
+ **If you find my work interesting, don't forget to star my repositories!**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tahrimjanin&color=00d9ff&style=flat-square&label=Profile+Views)
 
